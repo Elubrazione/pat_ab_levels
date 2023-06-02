@@ -41,4 +41,4 @@
 |:------:|:------:|:------:|
 | [A1043](./code/A1043.cpp)  | Is It a Binary Search Tree | :white_check_mark: |
 | A1064  | Complete Binary Search Tree |  |
-| A1099  |  |  |
+| A1099  | 	Build A Binary Search Tree |  |
