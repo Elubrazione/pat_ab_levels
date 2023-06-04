@@ -62,7 +62,16 @@
 ### Chapter 10.3 Graph Traversals
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
-| [A1013](./code/A1013.cpp) | Battle over cities | :white_check_mark: |
+| [A1013](./code/A1013.cpp) | Battle Over Cities | :white_check_mark: |
 | [A1021](./code/A1021.cpp) | Deepest Root | :white_check_mark: |
-| [A1034](./code/A1034.cpp) | Head of a Gang | :white_check_mark: |
-| [A1076](./code/A1076.cpp) | Forwards on Weibo | :white_check_mark: |
+<!-- | [A1034](./code/A1034.cpp) | Head of a Gang | :white_check_mark: |
+| [A1076](./code/A1076.cpp) | Forwards on Weibo | :white_check_mark: | -->
+
+<!-- ### Chapter 10.4 Shortest Path
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1003](./code/A1003.cpp) | Battle Over Cities | :white_check_mark: |
+| [A1018](./code/A1018.cpp) | Deepest Root | :white_check_mark: |
+| [A1030](./code/A1030.cpp) | Head of a Gang | :white_check_mark: |
+| [A1072](./code/A1072.cpp) | Forwards on Weibo | :white_check_mark: |
+| [A1087](./code/A1087.cpp) | Forwards on Weibo | :white_check_mark: | -->
