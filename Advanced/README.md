@@ -47,3 +47,22 @@
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
 | [A1066](./code/A1066.cpp) | Root of AVL Tree | :white_check_mark: |
+
+### Chapter 9.6 Union Find Set
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1107](./code/A1107.cpp) | Social Clusters | :white_check_mark: |
+
+### Chapter 9.7 Heap Sort
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1098](./code/A1098.cpp) | Insertion or Heap Sort | :white_check_mark: |
+
+## Chapter 10 Graph
+### Chapter 10.3 Graph Traversals
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1013](./code/A1013.cpp) | Battle over cities | :white_check_mark: |
+| [A1021](./code/A1021.cpp) | Deepest Root | :white_check_mark: |
+| [A1034](./code/A1034.cpp) | Head of a Gang | :white_check_mark: |
+| [A1076](./code/A1076.cpp) | Forwards on Weibo | :white_check_mark: |
