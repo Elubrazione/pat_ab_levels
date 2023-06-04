@@ -42,3 +42,8 @@
 | [A1043](./code/A1043.cpp) | Is It a Binary Search Tree | :white_check_mark: |
 | [A1064](./code/A1064.cpp) | Complete Binary Search Tree | :white_check_mark: |
 | [A1099](./code/A1099.cpp) | Build A Binary Search Tree | :white_check_mark: |
+
+### Chapter 9.5 AVL Tree
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1066](./code/A1066.cpp) | Root of AVL Tree | :white_check_mark: |
