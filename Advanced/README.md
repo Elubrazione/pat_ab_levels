@@ -71,7 +71,7 @@
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
 | [A1003](./code/A1003.cpp) | Emergency | :white_check_mark: |
-<!-- | [A1018](./code/A1018.cpp) | Public Bike Management | :white_check_mark: |
+| [A1018](./code/A1018.cpp) | Public Bike Management | :white_check_mark: |
 | [A1030](./code/A1030.cpp) | Travel Plan | :white_check_mark: |
-| [A1072](./code/A1072.cpp) | Gas Station | :white_check_mark: |
+<!-- | [A1072](./code/A1072.cpp) | Gas Station | :white_check_mark: |
 | [A1087](./code/A1087.cpp) | All Roads Lead to Rome | :white_check_mark: | -->
