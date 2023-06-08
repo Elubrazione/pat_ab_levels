@@ -7,6 +7,17 @@
 | [A1002](./code/A1002.cpp) | A+B for Polynomials | :white_check_mark: |
 | [A1042](./code/A1042.cpp) | Shuffling Machine | :white_check_mark: |
 
+## Chapter 4 Simple Algorithm
+
+## Chapter 5 Mathematical Problem
+
+## Chapter 6 C++ STL
+### Chapter 6.3 String
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1060](./code/A1060.cpp) | Are They Equal | :white_check_mark: |
+
+
 ## Chapter 8 Search
 ### Chapter 8.1 DFS
 | INDEX | TITLE | STATUS |
