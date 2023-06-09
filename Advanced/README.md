@@ -17,6 +17,15 @@
 |:------:|:------:|:------:|
 | [A1060](./code/A1060.cpp) | Are They Equal | :white_check_mark: |
 
+## Chapter 7 Data Structure
+### Chapter 7.3 Linked List
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1074](./code/A1074.cpp) | Reversing Linked List | :white_check_mark: |
+| [A1032](./code/A1032.cpp) | Sharing | :white_check_mark: |
+| [A1052](./code/A1052.cpp) | Linked List Sorting | :white_check_mark: |
+| [A1097](./code/A1097.cpp) | Deduplication on a Linked List | :white_check_mark: |
+
 
 ## Chapter 8 Search
 ### Chapter 8.1 DFS
