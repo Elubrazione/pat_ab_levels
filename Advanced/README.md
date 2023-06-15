@@ -7,6 +7,12 @@
 | [A1002](./code/A1002.cpp) | A+B for Polynomials | :white_check_mark: |
 | [A1042](./code/A1042.cpp) | Shuffling Machine | :white_check_mark: |
 
+### Chapter 3.6 String
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1005](./code/A1005.cpp)  | Spell It Right | :white_check_mark: |
+| [A1006](./code/A1006.cpp)  | Sign In and Sign Out | :white_check_mark: |
+
 ## Chapter 4 Simple Algorithm
 
 ## Chapter 5 Mathematical Problem
