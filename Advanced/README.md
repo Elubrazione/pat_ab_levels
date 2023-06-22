@@ -5,7 +5,13 @@
 |:------:|:------:|:------:|
 | [A1001](./code/A1001.cpp) | A+B Format | :white_check_mark: |
 | [A1002](./code/A1002.cpp) | A+B for Polynomials | :white_check_mark: |
+| [A1009](./code/A1009.cpp) | Product of Polynomials | :white_check_mark: |
 | [A1042](./code/A1042.cpp) | Shuffling Machine | :white_check_mark: |
+| [A1065](./code/A1065.cpp) | A+B and C (64bit) | :white_check_mark: |
+
+### Chapter 3.2 Element Searching
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
 
 ### Chapter 3.6 String
 | INDEX | TITLE | STATUS |
@@ -14,6 +20,10 @@
 | [A1006](./code/A1006.cpp)  | Sign In and Sign Out | :white_check_mark: |
 
 ## Chapter 4 Simple Algorithm
+### Chapter 4.1 Sort
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1041](./code/A1041.cpp)  | Be Unique | :white_check_mark: |
 
 ## Chapter 5 Mathematical Problem
 
