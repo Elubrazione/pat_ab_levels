@@ -3,7 +3,6 @@
 ### Chapter 3.1 Simulation
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
-| [A1001](./code/A1001.cpp) | A+B Format | :white_check_mark: |
 | [A1002](./code/A1002.cpp) | A+B for Polynomials | :white_check_mark: |
 | [A1009](./code/A1009.cpp) | Product of Polynomials | :white_check_mark: |
 | [A1042](./code/A1042.cpp) | Shuffling Machine | :white_check_mark: |
@@ -12,17 +11,13 @@
 ### Chapter 3.2 Element Searching
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
-
-### Chapter 3.6 String
-| INDEX | TITLE | STATUS |
-|:------:|:------:|:------:|
-| [A1005](./code/A1005.cpp)  | Spell It Right | :white_check_mark: |
-| [A1006](./code/A1006.cpp)  | Sign In and Sign Out | :white_check_mark: |
+| [A1011](./code/A1011.cpp) | World Cup Betting | :white_check_mark: |
 
 ## Chapter 4 Simple Algorithm
 ### Chapter 4.1 Sort
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
+| [A1036](./code/A1036.cpp)  | Boys vs Girls | :white_check_mark: |
 | [A1041](./code/A1041.cpp)  | Be Unique | :white_check_mark: |
 
 ## Chapter 5 Mathematical Problem
@@ -31,6 +26,9 @@
 ### Chapter 6.3 String
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
+| [A1001](./code/A1001.cpp) | A+B Format | :white_check_mark: |
+| [A1005](./code/A1005.cpp)  | Spell It Right | :white_check_mark: |
+| [A1006](./code/A1006.cpp)  | Sign In and Sign Out | :white_check_mark: |
 | [A1060](./code/A1060.cpp) | Are They Equal | :white_check_mark: |
 
 ## Chapter 7 Data Structure
