@@ -13,6 +13,12 @@
 | [B1026](./code/B1026.cpp)  | 程序运行时间 | :white_check_mark: |
 | [B1046](./code/B1046.cpp)  | 划拳 | :white_check_mark: |
 
+### Chapter 3.5 Decimal Transfer
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [B1022](./code/B1022.cpp)  | D进制的A+B | :white_check_mark: |
+| [B1037](./code/B1037.cpp)  | 在霍格沃茨找零钱 | :white_check_mark: |
+
 ### Chapter 3.6 String
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|

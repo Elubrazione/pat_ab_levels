@@ -4,6 +4,7 @@
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
 | [A1002](./code/A1002.cpp) | A+B for Polynomials | :white_check_mark: |
+| [A1008](./code/A1008.cpp) | Elevator | :white_check_mark: |
 | [A1009](./code/A1009.cpp) | Product of Polynomials | :white_check_mark: |
 | [A1042](./code/A1042.cpp) | Shuffling Machine | :white_check_mark: |
 | [A1065](./code/A1065.cpp) | A+B and C (64bit) | :white_check_mark: |
@@ -12,6 +13,12 @@
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
 | [A1011](./code/A1011.cpp) | World Cup Betting | :white_check_mark: |
+
+### Chapter 3.5 Decimal Transfer
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1019](./code/A1019.cpp) | General Palindromic Number |  |
+
 
 ## Chapter 4 Simple Algorithm
 ### Chapter 4.1 Sort
@@ -109,3 +116,9 @@
 | [A1030](./code/A1030.cpp) | Travel Plan | :white_check_mark: |
 | [A1072](./code/A1072.cpp) | Gas Station | :white_check_mark: |
 | [A1087](./code/A1087.cpp) | All Roads Lead to Rome | :white_check_mark: |
+
+## Chapter 11 Dynamic Programming
+### Chapter 11.2 Maximum Subsequence Sum
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1007](./code/A1007.cpp) | Maximum Subsequence Sum | :white_check_mark: |
