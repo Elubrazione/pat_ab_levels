@@ -37,7 +37,10 @@
 | [A1001](./code/A1001.cpp) | A+B Format | :white_check_mark: |
 | [A1005](./code/A1005.cpp)  | Spell It Right | :white_check_mark: |
 | [A1006](./code/A1006.cpp)  | Sign In and Sign Out | :white_check_mark: |
+| [A1035](./code/A1035.cpp)  | Password | :white_check_mark: |
 | [A1060](./code/A1060.cpp) | Are They Equal | :white_check_mark: |
+| [A1077](./code/A1077.cpp)  | Kuchiguse | :white_check_mark: |
+| [A1082](./code/A1082.cpp)  | Read Number in Chinese | :x: |
 
 ## Chapter 7 Data Structure
 ### Chapter 7.3 Linked List
@@ -122,4 +125,4 @@
 ### Chapter 11.2 Maximum Subsequence Sum
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
-| [A1007](./code/A1007.cpp) | Maximum Subsequence Sum | :white_check_mark: |
+| [A1007](./code/A1007.cpp) | Maximum Subsequence Sum | :x: |
