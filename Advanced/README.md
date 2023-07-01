@@ -25,8 +25,10 @@
 ### Chapter 4.1 Sort
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
+| [A1028](./code/A1028.cpp)  | List Sorting | :white_check_mark: |
 | [A1036](./code/A1036.cpp)  | Boys vs Girls | :white_check_mark: |
 | [A1041](./code/A1041.cpp)  | Be Unique | :white_check_mark: |
+| [A1083](./code/A1083.cpp)  | List Grades | :white_check_mark: |
 
 ## Chapter 5 Mathematical Problem
 
@@ -115,7 +117,8 @@
 ### Chapter 10.4 Shortest Path
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
-| [A1003](./code/A1003.cpp) | Emergency | :white_check_mark: |
+| [A1003](./code/A1003.cpp) | Emergency-Dijkstra | :white_check_mark: |
+| [A1003](./code/A1003_.cpp) | Emergency-BellmanFord | :x: |
 | [A1018](./code/A1018.cpp) | Public Bike Management | :white_check_mark: |
 | [A1030](./code/A1030.cpp) | Travel Plan | :white_check_mark: |
 | [A1072](./code/A1072.cpp) | Gas Station | :white_check_mark: |
