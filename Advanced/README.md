@@ -117,12 +117,17 @@
 ### Chapter 10.4 Shortest Path
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
-| [A1003](./code/A1003.cpp) | Emergency-Dijkstra | :white_check_mark: |
-| [A1003](./code/A1003_.cpp) | Emergency-BellmanFord | :x: |
-| [A1018](./code/A1018.cpp) | Public Bike Management | :white_check_mark: |
-| [A1030](./code/A1030.cpp) | Travel Plan | :white_check_mark: |
-| [A1072](./code/A1072.cpp) | Gas Station | :white_check_mark: |
-| [A1087](./code/A1087.cpp) | All Roads Lead to Rome | :white_check_mark: |
+| [A1003](./code/A1003.cpp) | Emergency - (Dijkstra) | :white_check_mark: |
+| [A1003](./code/A1003_.cpp) | Emergency - (BellmanFord) | :white_check_mark: |
+| [A1003](./code/A1003__.cpp) | Emergency - (SPFA) | :white_check_mark: |
+| [A1018](./code/A1018.cpp) | Public Bike Management - (Dijkstra) | :white_check_mark: |
+| [A1018](./code/A1018_.cpp) | Public Bike Management - (SPFA) | :x: |
+| [A1030](./code/A1030.cpp) | Travel Plan - (Dijkstra) | :white_check_mark: |
+| [A1030](./code/A1030_.cpp) | Travel Plan - (SPFA) | :x: |
+| [A1072](./code/A1072.cpp) | Gas Station - (Dijkstra) | :white_check_mark: |
+| [A1072](./code/A1072_.cpp) | Gas Station - (SPFA) | :x: |
+| [A1087](./code/A1087.cpp) | All Roads Lead to Rome - (Dijkstra) | :white_check_mark: |
+| [A1087](./code/A1087_.cpp) | All Roads Lead to Rome - (SPFA) | :x: |
 
 ## Chapter 11 Dynamic Programming
 ### Chapter 11.2 Maximum Subsequence Sum
