@@ -121,9 +121,9 @@
 | [A1003](./code/A1003_.cpp) | Emergency - (BellmanFord) | :white_check_mark: |
 | [A1003](./code/A1003__.cpp) | Emergency - (SPFA) | :white_check_mark: |
 | [A1018](./code/A1018.cpp) | Public Bike Management - (Dijkstra) | :white_check_mark: |
-| [A1018](./code/A1018_.cpp) | Public Bike Management - (SPFA) | :x: |
+| [A1018](./code/A1018_.cpp) | Public Bike Management - (SPFA) | :white_check_mark: |
 | [A1030](./code/A1030.cpp) | Travel Plan - (Dijkstra) | :white_check_mark: |
-| [A1030](./code/A1030_.cpp) | Travel Plan - (SPFA) | :x: |
+| [A1030](./code/A1030_.cpp) | Travel Plan - (SPFA) | :white_check_mark: |
 | [A1072](./code/A1072.cpp) | Gas Station - (Dijkstra) | :white_check_mark: |
 | [A1072](./code/A1072_.cpp) | Gas Station - (SPFA) | :x: |
 | [A1087](./code/A1087.cpp) | All Roads Lead to Rome - (Dijkstra) | :white_check_mark: |
