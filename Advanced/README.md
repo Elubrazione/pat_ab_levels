@@ -17,6 +17,7 @@
 ### Chapter 3.5 Decimal Transfer
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
+| [A1010](./code/A1010.cpp) | Radix | :white_check_mark: |
 | [A1019](./code/A1019.cpp) | General Palindromic Number | :white_check_mark: |
 | [A1027](./code/A1027.cpp) | Colors in Mars | :white_check_mark: |
 | [A1058](./code/A1058.cpp) | A+B in Hogwarts | :white_check_mark: |

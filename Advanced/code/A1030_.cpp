@@ -20,7 +20,7 @@ vector<set<pair<int, int>>> pre;
 vector<vector<Node>> Adj;
 const int MAX = 0x3fffffff;
 
-void Bellman_Ford(int s) {
+void SPFA(int s) {
   d.resize(n, MAX);
   inq.resize(n, false);
   queue<int> q;
@@ -86,7 +86,7 @@ int main() {
     Adj[u].push_back(Node(v, w, c));
     Adj[v].push_back(Node(u, w, c));
   }
-  Bellman_Ford(st);
+  SPFA(st);
   dfs(make_pair(ed, 0));
   for (int i = ansPath.size() - 1; i >= 0; i--)
     cout << ansPath[i].first << " ";
