@@ -15,12 +15,13 @@
 | [A1011](./code/A1011.cpp) | World Cup Betting | :white_check_mark: |
 
 ### Chapter 3.5 Decimal Transfer
-| INDEX | TITLE | STATUS |
-|:------:|:------:|:------:|
+| INDEX | TITLE | STATUS | LEVEL |
+|:------:|:------:|:------:|:------:|
 | [A1010](./code/A1010.cpp) | Radix | :white_check_mark: |
 | [A1019](./code/A1019.cpp) | General Palindromic Number | :white_check_mark: |
 | [A1027](./code/A1027.cpp) | Colors in Mars | :white_check_mark: |
 | [A1058](./code/A1058.cpp) | A+B in Hogwarts | :white_check_mark: |
+| [A1100](./code/A1100.cpp) | Mars Numbers | :white_check_mark: | :triangular_flag_on_post: |
 
 ## Chapter 4 Simple Algorithm
 ### Chapter 4.1 Sort
@@ -30,6 +31,12 @@
 | [A1036](./code/A1036.cpp)  | Boys vs Girls | :white_check_mark: |
 | [A1041](./code/A1041.cpp)  | Be Unique | :white_check_mark: |
 | [A1083](./code/A1083.cpp)  | List Grades | :white_check_mark: |
+
+### Chapter 4.4 Greedy
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1033](./code/A1033.cpp)  | To Fill or Not to Fill | :white_check_mark: |
+| [A1070](./code/A1070.cpp)  | Mooncake | :white_check_mark: |
 
 ## Chapter 5 Mathematical Problem
 
