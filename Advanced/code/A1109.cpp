@@ -7,7 +7,7 @@ struct Person {
 };
 vector<Person> vec;
 
-int main(){
+int main() {
   int n, k, m;
   cin >> n >> k;
 

@@ -1,3 +1,9 @@
+/**
+ * 给定一棵二叉树的后序遍历和中序遍历，
+ * 请你输出其层序遍历的序列。
+ * 这里假设键值都是互不相等的正整数
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 vector<int> postOrder, inOrder;
