@@ -62,7 +62,7 @@ A1108开始是2018年及以后的真题，免费试题到2020年春，剩下的�
   </tr>
   <tr>
     <td><a href="./Advanced/code/A1115.cpp">Counting Nodes in a Binary Search Tree</a></td>
-    <td> </td>
+    <td>Binary Search Tree</td>
     <td>Done</td>
   </tr>
 </table>
