@@ -20,7 +20,7 @@ A1108开始是2018年及以后的真题，免费试题到2020年春，剩下的�
     <td>STATUS</td>
   </tr>
   <tr>
-    <td rowspan="4">2016 Spring</td>
+    <td rowspan="5">2016 Spring</td>
     <td><a href="./Advanced/code/A1108.cpp">Finding Average</a></td>
     <td>String</td>
     <td>Done</td>
@@ -36,8 +36,33 @@ A1108开始是2018年及以后的真题，免费试题到2020年春，剩下的�
     <td>Done</td>
   </tr>
   <tr>
-    <td><a href="./Advanced/code/A1111.cpp">Online Map</a></td>
-    <td>Shorest Path</td>
+    <td><a href="./Advanced/code/A1111.cpp">[Dijkstra] Online Map</a></td>
+    <td rowspan="2">Shortest Path</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1111_.cpp">[SPFA] Online Map</a></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="4">2016 Summer</td>
+    <td><a href="./Advanced/code/A1112.cpp">Stucked Keyboard</a></td>
+    <td>STL, Map</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1113.cpp">Integer Set Partition</a></td>
+    <td>Sort, Math</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1114.cpp">Family Property</a></td>
+    <td>Union Find Set</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1115.cpp">Counting Nodes in a Binary Search Tree</a></td>
+    <td> </td>
     <td>Done</td>
   </tr>
 </table>

@@ -107,6 +107,8 @@
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
 | [A1107](./code/A1107.cpp) | Social Clusters | :white_check_mark: |
+| [A1013](./code/A1013_.cpp) | Battle Over Cities | :white_check_mark: |
+| [A1021](./code/A1021_.cpp) | Deepest Root | :white_check_mark: |
 
 ### Chapter 9.7 Heap Sort
 | INDEX | TITLE | STATUS |
