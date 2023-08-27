@@ -17,7 +17,7 @@
 ### Chapter 3.5 Decimal Transfer
 | INDEX | TITLE | STATUS | LEVEL |
 |:------:|:------:|:------:|:------:|
-| [A1010](./code/A1010.cpp) | Radix | :white_check_mark: |
+| [A1010](./code/A1010.cpp) | Radix | :white_check_mark: | :triangular_flag_on_post: |
 | [A1019](./code/A1019.cpp) | General Palindromic Number | :white_check_mark: |
 | [A1027](./code/A1027.cpp) | Colors in Mars | :white_check_mark: |
 | [A1058](./code/A1058.cpp) | A+B in Hogwarts | :white_check_mark: |
@@ -35,10 +35,14 @@
 ### Chapter 4.4 Greedy
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
-| [A1033](./code/A1033.cpp)  | To Fill or Not to Fill | :white_check_mark: |
 | [A1070](./code/A1070.cpp)  | Mooncake | :white_check_mark: |
 
 ## Chapter 5 Mathematical Problem
+## Chapter 5.4 Prime
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1015](./code/A1015.cpp)  | Reversible Primes | :white_check_mark: |
+| [A1078](./code/A1078.cpp)  | Hashing | :white_check_mark: |
 
 ## Chapter 6 C++ STL
 ### Chapter 6.3 String

@@ -65,4 +65,25 @@ A1108开始是2018年及以后的真题，免费试题到2020年春，剩下的�
     <td>Binary Search Tree</td>
     <td>Done</td>
   </tr>
+  <tr>
+    <td rowspan="4">2016 Fall</td>
+    <td><a href="./Advanced/code/A1116.cpp"> Come on! Let's C</a></td>
+    <td>Prime</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1117.cpp">Eddington Number</a></td>
+    <td>Logical Problem</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1118.cpp">Birds in Forest</a></td>
+    <td>Union Find Set</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1119.cpp">Pre- and Post-order Traversals</a></td>
+    <td>Binary Tree Traversals</td>
+    <td>Done</td>
+  </tr>
 </table>
