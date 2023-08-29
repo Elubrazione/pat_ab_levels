@@ -67,7 +67,7 @@ A1108开始是2018年及以后的真题，免费试题到2020年春，剩下的�
   </tr>
   <tr>
     <td rowspan="4">2016 Fall</td>
-    <td><a href="./Advanced/code/A1116.cpp"> Come on! Let's C</a></td>
+    <td><a href="./Advanced/code/A1116.cpp">Come on! Let's C</a></td>
     <td>Prime</td>
     <td>Done</td>
   </tr>
@@ -84,6 +84,27 @@ A1108开始是2018年及以后的真题，免费试题到2020年春，剩下的�
   <tr>
     <td><a href="./Advanced/code/A1119.cpp">Pre- and Post-order Traversals</a></td>
     <td>Binary Tree Traversals</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="4">2016 Winter</td>
+    <td><a href="./Advanced/code/A1120.cpp">Friend Numbers</a></td>
+    <td>STL, Set</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1121.cpp">Damn Single</a></td>
+    <td>STL, Map</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1122.cpp">Hamiltonian Cycle</a></td>
+    <td>Graph Theory</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1123.cpp">Is It a Complete AVL Tree</a></td>
+    <td>AVL Tree</td>
     <td>Done</td>
   </tr>
 </table>
