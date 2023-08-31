@@ -107,4 +107,25 @@ A1108开始是2018年及以后的真题，免费试题到2020年春，剩下的�
     <td>AVL Tree</td>
     <td>Done</td>
   </tr>
+  <tr>
+    <td rowspan="4">2017 Spring</td>
+    <td><a href="./Advanced/code/A1124.cpp">Raffle for Weibo Followers</a></td>
+    <td>Simulation</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1125.cpp">Chain the Ropes</a></td>
+    <td>Greedy</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1126.cpp">Eulerian Path</a></td>
+    <td>Graph Theory</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1127.cpp">ZigZagging on a Tree</a></td>
+    <td>Binary Tree Traversals</td>
+    <td>Done</td>
+  </tr>
 </table>
