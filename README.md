@@ -2,7 +2,7 @@
 PAT甲级考试准备记录
 
 ### 提示
-A1108开始是2018年及以后的真题，免费试题到2020年春，剩下的要在教育超市花钱买
+A1108开始是2018年及以后的真题，免费试题到2020年秋，剩下的要在教育超市花钱买
 
 ### 阶段进度
 > 2023.06.10 夏季甲级考试，得分 79/100：13/20 | 25/25 | 25/25 | 16/30.
@@ -126,6 +126,27 @@ A1108开始是2018年及以后的真题，免费试题到2020年春，剩下的�
   <tr>
     <td><a href="./Advanced/code/A1127.cpp">ZigZagging on a Tree</a></td>
     <td>Binary Tree Traversals</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="4">2020 Spring</td>
+    <td><a href="./Advanced/code/A1168.cpp">Prime Day</a></td>
+    <td>Prime</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1169.cpp">The Judger</a></td>
+    <td>Hash</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1170.cpp">Safari Park</a></td>
+    <td>Simulation</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1171.cpp">Replacement Selection</a></td>
+    <td> </td>
     <td>Done</td>
   </tr>
 </table>
