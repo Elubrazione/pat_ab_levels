@@ -148,3 +148,15 @@
 | INDEX | TITLE | STATUS |
 |:------:|:------:|:------:|
 | [A1007](./code/A1007.cpp) | Maximum Subsequence Sum | :x: |
+
+
+## Chapter 13 Topic Expansion
+### Chapter 13.1 Chunking
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1057](./code/A1057.cpp) | Stack | :white_check_mark: |
+
+### Chapter 13.3 Happy Simulation
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1105](./code/A1105.cpp) | Spiral Matrix | :white_check_mark: |
