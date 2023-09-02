@@ -146,6 +146,28 @@ A1108开始是2018年及以后的真题，免费试题到2020年秋，剩下的�
   </tr>
   <tr>
     <td><a href="./Advanced/code/A1171.cpp">Replacement Selection</a></td>
+    <td>Happy Simulation, Priority_queue</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="4">2020 Fall</td>
+    <td><a href="./Advanced/code/A1172.cpp">Panda and PP Milk</a></td>
+    <td>Dynamic Programing</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1173.cpp">How Many Ways to Buy a Piece of Land</a></td>
+    <td>DFS</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1174.cpp">Left-View of Binary Tree
+</a></td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1175.cpp"> </a></td>
     <td> </td>
     <td>Done</td>
   </tr>

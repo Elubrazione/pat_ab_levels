@@ -37,6 +37,12 @@
 |:------:|:------:|:------:|
 | [A1070](./code/A1070.cpp)  | Mooncake | :white_check_mark: |
 
+### Chapter 4.7 Others
+| INDEX | TITLE | STATUS |
+|:------:|:------:|:------:|
+| [A1093](./code/A1093.cpp)  | Count PAT's | :white_check_mark: |
+| [A1101](./code/A1101.cpp)  | Quick Sort | :white_check_mark: |
+
 ## Chapter 5 Mathematical Problem
 ## Chapter 5.4 Prime
 | INDEX | TITLE | STATUS |

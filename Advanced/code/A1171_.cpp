@@ -1,4 +1,4 @@
-// 暴力求解，17/30，AC做法是用快乐模拟
+// 暴力求解，17/30，时间超了
 #include <bits/stdc++.h>
 using namespace std;
 
