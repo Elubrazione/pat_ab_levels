@@ -129,6 +129,69 @@ A1108开始是2018年及以后的真题，免费试题到2020年秋，剩下的�
     <td>Done</td>
   </tr>
   <tr>
+    <td rowspan="4">2017 Summer</td>
+    <td><a href="./Advanced/code/A1128.cpp">N Queens Puzzle</a></td>
+    <td>Simulation</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1129.cpp">Recommendation System</a></td>
+    <td>STL, Set</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1130.cpp">Infix Expression</a></td>
+    <td>Binary Tree Traversals</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1131.cpp">Subway Map</a></td>
+    <td> </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="4">2017 Fall</td>
+    <td><a href="./Advanced/code/A1132.cpp"> </a></td>
+    <td> </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1133.cpp"> </a></td>
+    <td> </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1134.cpp"> </a></td>
+    <td> </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1135.cpp"> </a></td>
+    <td> </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="4">2017 Winter</td>
+    <td><a href="./Advanced/code/A1136.cpp"> </a></td>
+    <td> </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1137.cpp"> </a></td>
+    <td> </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1138.cpp"> </a></td>
+    <td> </td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1139.cpp"> </a></td>
+    <td> </td>
+    <td>Done</td>
+  </tr>
+  <tr>
     <td rowspan="4">2020 Spring</td>
     <td><a href="./Advanced/code/A1168.cpp">Prime Day</a></td>
     <td>Prime</td>
