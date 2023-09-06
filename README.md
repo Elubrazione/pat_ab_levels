@@ -146,27 +146,27 @@ A1108开始是2018年及以后的真题，免费试题到2020年秋，剩下的�
   </tr>
   <tr>
     <td><a href="./Advanced/code/A1131.cpp">Subway Map</a></td>
-    <td> </td>
+    <td>DFS</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="4">2017 Fall</td>
-    <td><a href="./Advanced/code/A1132.cpp"> </a></td>
+    <td><a href="./Advanced/code/A1132.cpp">Cut Integer</a></td>
     <td> </td>
     <td>Done</td>
   </tr>
   <tr>
-    <td><a href="./Advanced/code/A1133.cpp"> </a></td>
+    <td><a href="./Advanced/code/A1133.cpp">Splitting A Linked List</a></td>
     <td> </td>
     <td>Done</td>
   </tr>
   <tr>
-    <td><a href="./Advanced/code/A1134.cpp"> </a></td>
+    <td><a href="./Advanced/code/A1134.cpp">Vertex Cover</a></td>
     <td> </td>
     <td>Done</td>
   </tr>
   <tr>
-    <td><a href="./Advanced/code/A1135.cpp"> </a></td>
+    <td><a href="./Advanced/code/A1135.cpp">Is It A Red-Black Tree</a></td>
     <td> </td>
     <td>Done</td>
   </tr>
