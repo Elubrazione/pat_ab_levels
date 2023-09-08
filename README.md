@@ -173,12 +173,12 @@ A1108开始是2018年及以后的真题，免费试题到2020年秋，剩下的�
   <tr>
     <td rowspan="4">2017 Winter</td>
     <td><a href="./Advanced/code/A1136.cpp">A Delayed Palindrome</a></td>
-    <td> </td>
+    <td>String</td>
     <td>Done</td>
   </tr>
   <tr>
     <td><a href="./Advanced/code/A1137.cpp">Final Grading</a></td>
-    <td> </td>
+    <td>Hash, Sort</td>
     <td>Done</td>
   </tr>
   <tr>
