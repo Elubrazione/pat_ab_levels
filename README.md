@@ -152,42 +152,42 @@ A1108开始是2018年及以后的真题，免费试题到2020年秋，剩下的�
   <tr>
     <td rowspan="4">2017 Fall</td>
     <td><a href="./Advanced/code/A1132.cpp">Cut Integer</a></td>
-    <td> </td>
+    <td>Simulation</td>
     <td>Done</td>
   </tr>
   <tr>
     <td><a href="./Advanced/code/A1133.cpp">Splitting A Linked List</a></td>
-    <td> </td>
+    <td>Linked List</td>
     <td>Done</td>
   </tr>
   <tr>
     <td><a href="./Advanced/code/A1134.cpp">Vertex Cover</a></td>
-    <td> </td>
+    <td>Graph Theory, Hash</td>
     <td>Done</td>
   </tr>
   <tr>
     <td><a href="./Advanced/code/A1135.cpp">Is It A Red-Black Tree</a></td>
-    <td> </td>
+    <td>Binary Search Tree</td>
     <td>Done</td>
   </tr>
   <tr>
     <td rowspan="4">2017 Winter</td>
-    <td><a href="./Advanced/code/A1136.cpp"> </a></td>
+    <td><a href="./Advanced/code/A1136.cpp">A Delayed Palindrome</a></td>
     <td> </td>
     <td>Done</td>
   </tr>
   <tr>
-    <td><a href="./Advanced/code/A1137.cpp"> </a></td>
+    <td><a href="./Advanced/code/A1137.cpp">Final Grading</a></td>
     <td> </td>
     <td>Done</td>
   </tr>
   <tr>
-    <td><a href="./Advanced/code/A1138.cpp"> </a></td>
+    <td><a href="./Advanced/code/A1138.cpp">Postorder Traversal</a></td>
     <td> </td>
     <td>Done</td>
   </tr>
   <tr>
-    <td><a href="./Advanced/code/A1139.cpp"> </a></td>
+    <td><a href="./Advanced/code/A1139.cpp">First Contact</a></td>
     <td> </td>
     <td>Done</td>
   </tr>
