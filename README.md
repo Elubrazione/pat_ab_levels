@@ -183,12 +183,12 @@ A1108开始是2018年及以后的真题，免费试题到2020年秋，剩下的�
   </tr>
   <tr>
     <td><a href="./Advanced/code/A1138.cpp">Postorder Traversal</a></td>
-    <td> </td>
+    <td>Binary Tree Traversals</td>
     <td>Done</td>
   </tr>
   <tr>
     <td><a href="./Advanced/code/A1139.cpp">First Contact</a></td>
-    <td> </td>
+    <td>Graph</td>
     <td>Done</td>
   </tr>
   <tr>
