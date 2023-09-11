@@ -255,4 +255,25 @@ A1108开始是2018年及以后的真题，免费试题到2020年秋，剩下的�
     <td>Topology Sort + Shortest Path</td>
     <td>Done</td>
   </tr>
+  <tr>
+    <td rowspan="4">2023 Summer</td>
+    <td><a href="./Advanced/2023/summer/1.cpp">Trap</a></td>
+    <td>Simulation</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/2023/summer/2.cpp">Queue Using Two Stacks</a></td>
+    <td>Stack</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/2023/summer/3.cpp">Rank of Binary Tree</a></td>
+    <td>Binary Tree Traversals</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/2023/summer/4.cpp">Big Number</a></td>
+    <td>Greedy, Hash</td>
+    <td>Done</td>
+  </tr>
 </table>
