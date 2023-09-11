@@ -192,6 +192,27 @@ A1108开始是2018年及以后的真题，免费试题到2020年秋，剩下的�
     <td>Done</td>
   </tr>
   <tr>
+    <td rowspan="4">2018 Spring</td>
+    <td><a href="./Advanced/code/A1140.cpp">Look-and-say Sequence</a></td>
+    <td>String</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1141.cpp">PAT Ranking of Institutions</a></td>
+    <td>Hash, Sort</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1142.cpp">Maximal Clique</a></td>
+    <td>Graph Theory</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/code/A1143.cpp">Lowest Common Ancestor</a></td>
+    <td>Binary Search Tree</td>
+    <td>Done</td>
+  </tr>
+  <tr>
     <td rowspan="4">2020 Spring</td>
     <td><a href="./Advanced/code/A1168.cpp">Prime Day</a></td>
     <td>Prime</td>
