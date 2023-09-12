@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int n;
+
 void dfs(int cur, vector<int>& tv, vector<int>& res, set<pair<int,int>>& cap) {
   if (cur == 10 || cur > n) {
     res = min(res, tv);
@@ -22,6 +23,7 @@ void dfs(int cur, vector<int>& tv, vector<int>& res, set<pair<int,int>>& cap) {
     }
   }
 }
+
 int main() {
   cin >> n;
   set<pair<int,int>> cap;

@@ -256,6 +256,27 @@ A1108开始是2018年及以后的真题，免费试题到2020年秋，剩下的�
     <td>Done</td>
   </tr>
   <tr>
+    <td rowspan="4">2023 Spring</td>
+    <td><a href="./Advanced/2023/spring/1.cpp">The Winner over Squares and Primes</a></td>
+    <td>Prime</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/2023/spring/2.cpp">LRU-K</a></td>
+    <td>Set, Queue</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/2023/spring/3.cpp">K Vertex</a></td>
+    <td>Graph Theory</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td><a href="./Advanced/2023/spring/4.cpp">Tree of Love</a></td>
+    <td>Binary Tree Traversals, DFS</td>
+    <td>Done</td>
+  </tr>
+  <tr>
     <td rowspan="4">2023 Summer</td>
     <td><a href="./Advanced/2023/summer/1.cpp">Trap</a></td>
     <td>Simulation</td>
@@ -273,7 +294,7 @@ A1108开始是2018年及以后的真题，免费试题到2020年秋，剩下的�
   </tr>
   <tr>
     <td><a href="./Advanced/2023/summer/4.cpp">Big Number</a></td>
-    <td>Greedy, Hash</td>
+    <td>Greedy, DFS</td>
     <td>Done</td>
   </tr>
 </table>
